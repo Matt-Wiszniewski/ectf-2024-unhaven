@@ -23,6 +23,7 @@
 #include "board.h"
 #include "nvic_table.h"
 #include "i2c.h"
+#include "crypto_parameters.h"
 
 /******************************** MACRO DEFINITIONS ********************************/
 #define I2C_FREQ 100000
