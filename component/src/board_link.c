@@ -14,6 +14,7 @@
 #include <string.h>
 
 #include "board_link.h"
+#include "crypto_parameters.h"
 
 /**
  * @brief Initialize the board link interface
