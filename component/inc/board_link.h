@@ -15,6 +15,7 @@
 #define __BOARD_LINK__
 
 #include "simple_i2c_peripheral.h"
+#include "crypto_parameters.h"
 
 /******************************** MACRO DEFINITIONS ********************************/
 // Last byte of the component ID is the I2C address
